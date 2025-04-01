@@ -91,6 +91,13 @@ npm run dev
 
 ---
 
+## Screenshots
+
+![Login Page](https://i.imgur.com/Xo8u5dl.png)
+![Signup Page](https://i.imgur.com/Hc1DMhs.png)
+
+---
+
 ## Author
 
 - [Spencer Kelly](https://SpencerKelly.tech/)
