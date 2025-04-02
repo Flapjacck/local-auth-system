@@ -28,6 +28,7 @@ A sleek full-stack web app with secure user authentication built using:
 | bcrypt         | Secure password hashing and comparison       |
 | sqlite3        | Local database for user storage              |
 | nodemon (dev)  | Auto-reloads server during development       |
+| express-rate-limit | Adds rate limiting to prevent brute forcing |
 
 ### Frontend
 
@@ -37,7 +38,6 @@ A sleek full-stack web app with secure user authentication built using:
 | typescript        | Type-safe code for fewer bugs                |
 | vite              | Lightning-fast dev server and bundler        |
 | tailwindcss       | Utility-first modern CSS                     |
-| postcss/autoprefixer | Tailwind dependencies                     |
 
 ---
 
